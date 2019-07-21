@@ -1,1 +1,3 @@
 test file
+This is first file - changed by developer 2.
+Again changed
